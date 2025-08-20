@@ -11,10 +11,14 @@
             "id": "1ec06db0addca648",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HTB Play Boxes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HTB Play Boxes"
             }
           }
         ]
@@ -191,18 +195,26 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7f5c2f1132b49aea",
+  "active": "1ec06db0addca648",
   "lastOpenFiles": [
+    "Pro Labs/Pro Labs.md",
+    "1-EASY/1-EASY.md",
+    "3-HARD/3-HARD.md",
+    "2-MEDIUM/2-MEDIUM.md",
+    "HTB Play Boxes.md",
+    "Pro Labs/Dante/Dante.md",
+    "Pro Labs/Dante",
+    "xtras/Templates/template prolab.md",
+    "xtras/Templates/template newprolab.md",
+    "EASY/testing flow/Walkthrough.md",
+    "Pro Labs",
     "EASY/testing flow/Scans/Scans.md",
     "EASY/testing flow/Notes/Notes.md",
-    "EASY/EASY.md",
-    "EASY/testing flow/Walkthrough.md",
     "EASY/testing flow/testing flow.md",
     "EASY/testing flow/Scans",
     "EASY/testing flow/Notes",
     "EASY/testing flow",
     "EASY/deletemehost.md",
-    "HTB Play Boxes.md",
     "xtras/Templates/template walkfolder.md",
     "xtras/Templates/template notefolder.md",
     "xtras/Templates/template scanfolder.md",
@@ -211,8 +223,6 @@
     "xtras/Templates/template newhost.md",
     "xtras/Templates/template host.md",
     "xtras/Templates/template foldernote.md",
-    "MEDIUM/MEDIUM.md",
-    "HARD/HARD.md",
     "xtras/Scripts/deleteFile.js",
     "xtras/Templates",
     "xtras/Scripts",
@@ -223,12 +233,6 @@
     "EASY/test host/Walkthrough.md",
     "EASY/test host/Scans/Scans.md",
     "EASY/test host/test host.md",
-    "EASY/test host/Scans",
-    "EASY/test host/Notes",
-    "EASY/Test/Scans/Scans.md",
-    "EASY/Test/Scans/nmapscan.md",
-    "EASY/Test/Notes/Notes.md",
-    "EASY/Test/Notes/testing note.md",
     "zzzIMAGES/Pasted image 20250810202842.png",
     "zzzIMAGES/Pasted image 20250803100832.png",
     "zzzIMAGES/Pasted image 20250803095445.png",
