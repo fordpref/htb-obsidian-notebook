@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#ffae00",
+      "url": "https://calendar.google.com/calendar/ical/49a52fdd50812248aea208709dec737c7026c777bc439fa909939bcea70020bb%40group.calendar.google.com/private-8710a4970a2319706ebd80dcb0970da0/basic.ics",
+      "timezone": "America/New_York"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}

@@ -1,0 +1,17 @@
+{
+  "minimal-style@@ui1@@light": "#06F325",
+  "minimal-style@@code-normal@@light": "#07F34D",
+  "minimal-style@@code-background@@dark": "#343434",
+  "minimal-style@@tx1@@dark": "#34F405",
+  "minimal-style@@hl1@@dark": "#AB8502",
+  "minimal-style@@code-normal@@dark": "#06EF08",
+  "minimal-style@@ax1@@dark": "#06F525",
+  "minimal-style@@tx2@@dark": "#18EC07",
+  "minimal-style@@base@@dark": "#050404",
+  "minimal-style@@ui1@@dark": "#06F325",
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-hover": true,
+  "minimal-style@@table-row-background-hover@@dark": "#AE7304"
+}

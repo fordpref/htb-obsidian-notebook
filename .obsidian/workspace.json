@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "e26c20ce73214c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "39022b619286bf2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec06db0addca648",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64922abfd90ab8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "4093d6a7e2f32cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f5c2f1132b49aea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4bdfaefede6ba08c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "krb5tgs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b1a36fe72633c35",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fb915c16b60e6ca6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "709fa4df0f2d52b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "473498d00639e5f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78124436cb6e8d85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Generic NOTES/SQL relational tables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SQL relational tables"
+            }
+          },
+          {
+            "id": "30ad99155cd163fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Generic NOTES/SQL relational tables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SQL relational tables"
+            }
+          },
+          {
+            "id": "f1b372cad0f2a3b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19d4e5ba9ed5f655",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My Generic NOTES/SQL relational tables.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SQL relational tables"
+            }
+          },
+          {
+            "id": "91f261ff3b7dab9c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "rsync:Rsync": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "7f5c2f1132b49aea",
+  "lastOpenFiles": [
+    "EASY/testing flow/Scans/Scans.md",
+    "EASY/testing flow/Notes/Notes.md",
+    "EASY/EASY.md",
+    "EASY/testing flow/Walkthrough.md",
+    "EASY/testing flow/testing flow.md",
+    "EASY/testing flow/Scans",
+    "EASY/testing flow/Notes",
+    "EASY/testing flow",
+    "EASY/deletemehost.md",
+    "HTB Play Boxes.md",
+    "xtras/Templates/template walkfolder.md",
+    "xtras/Templates/template notefolder.md",
+    "xtras/Templates/template scanfolder.md",
+    "xtras/Templates/template note.md",
+    "xtras/Templates/template scan.md",
+    "xtras/Templates/template newhost.md",
+    "xtras/Templates/template host.md",
+    "xtras/Templates/template foldernote.md",
+    "MEDIUM/MEDIUM.md",
+    "HARD/HARD.md",
+    "xtras/Scripts/deleteFile.js",
+    "xtras/Templates",
+    "xtras/Scripts",
+    "xtras/Images",
+    "xtras",
+    "EASY/test host/Notes/Notes.md",
+    "EASY/test host/Notes/test.md",
+    "EASY/test host/Walkthrough.md",
+    "EASY/test host/Scans/Scans.md",
+    "EASY/test host/test host.md",
+    "EASY/test host/Scans",
+    "EASY/test host/Notes",
+    "EASY/Test/Scans/Scans.md",
+    "EASY/Test/Scans/nmapscan.md",
+    "EASY/Test/Notes/Notes.md",
+    "EASY/Test/Notes/testing note.md",
+    "zzzIMAGES/Pasted image 20250810202842.png",
+    "zzzIMAGES/Pasted image 20250803100832.png",
+    "zzzIMAGES/Pasted image 20250803095445.png",
+    "zzzIMAGES/Pasted image 20250603213644.png",
+    "zzzIMAGES/Pasted image 20250701134706.png",
+    "zzzIMAGES/Pasted image 20250701134528.png",
+    "zzzIMAGES/Pasted image 20250701134330.png",
+    "zzzIMAGES/Pasted image 20250701134228.png",
+    "zzzIMAGES/Pasted image 20250701134047.png",
+    "zzzIMAGES/Pasted image 20250701133932.png"
+  ]
+}
